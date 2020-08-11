@@ -3,8 +3,8 @@ jogo de super-man baseado em flappy bird
 
 ## Sobre o game
 
-O game é super facil de jogar, você só tem que controlar o super-man usando qualquer tecla,
-para fazer o super-man passa entre os predios.
+O game é super fácil de jogar, nesse game você controlará o super-man
+utilizando qualquer tecla para voar e passar entre os prédios.
 
 ## Como executar o jogo
 
