@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100%;
+}
+
+[wm-manfly] {
+    position: relative;
+    border: 5px solid dodgerblue;
+    height: 700px;
+    width: 1200px;
+    margin: 15px;
+    background-color: deepskyblue;
+    overflow: hidden;
+}
+
+.superman {
+    position: absolute;
+    width: 60px;
+    left: calc(50% - 30px);
+}
+
+.par-de-kriptonita {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.kriptonita {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kriptonita .borda {
+    height: 30px;
+    width: 110px;
+    background-color: cyan;
+    border: 1px solid #000;
+}
+
+
+.kriptonita .corpo {
+    height: 150px;
+    width: 110px;
+    background-image: url("../imgs/building.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220px;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+
+.progresso {
+    position: absolute;
+    top: 10%;
+    right: 50px;
+    font-size: 50px;
+    z-index: 100;
+
+}
+
+.Game-over {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    left: calc(50% - 137.065px);
+    height: 100%;
+    font-size: 70px;
+    color: #fa0f02;
+}
