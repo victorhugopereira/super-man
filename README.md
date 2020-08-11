@@ -8,5 +8,5 @@ utilizando qualquer tecla para voar e passar entre os prédios.
 
 ## Como executar o jogo
 
-Para executar o game com sucesso, vc só precisar baixa todos os arquivos,
-e abrir o arquivo com nome de superman em seu navegador ai vc poderá jogar e se divertir com o jogo,
+Para executar o game com sucesso, você só precisar baixar todos os arquivos,
+e abrir o arquivo com nome de superman em seu navegador ai vc poderá jogar e se divertir com o jogo.
